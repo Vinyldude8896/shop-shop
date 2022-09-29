@@ -60,6 +60,7 @@ To test this app:<br />
     I can be contacted by phone as well, but prefer email contact first.
 ### Images
 
-<img src=".//shop_shop_2.png" alt="Getting started">
 <img src="./shop_shop_1.png" alt="Getting started">
+<img src=".//shop_shop_2.png" alt="Getting started">
+
 
